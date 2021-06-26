@@ -1,2 +1,3 @@
 # Data-Camp-Project-1
-Data Camp project for Stats.
+
+Introduction to R Data Camp project for Stats.
